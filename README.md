@@ -6,7 +6,7 @@ Simply asks one question and click to see the answer.
 ### App Walk-though
 
 
-<img src="http://recordit.co/350FenXNXO" width=200><br>
+<img src="http://recordit.co/WsjpjxXk5o" width=200><br>
 
 
 
